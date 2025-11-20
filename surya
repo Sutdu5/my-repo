@@ -3,8 +3,6 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
-
-Dev 2 
 import java.util.Scanner;
 
 public class AddNumbers {
@@ -19,3 +17,4 @@ public class AddNumbers {
         input.close();
     }
 }
+
