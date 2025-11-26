@@ -4,5 +4,3 @@ public static
         System.out.println("Hello, World!");
     }
 }
-This is just to check
-
