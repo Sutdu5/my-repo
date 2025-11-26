@@ -18,3 +18,4 @@ public class AddNumbers {
         System.out.println("The sum is: " + sum);
     }
 }
+I just commiting this for cron syntax
